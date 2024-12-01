@@ -1,4 +1,4 @@
-# Setup Check
+# Calculator
 
 This repository is used for educational purposes.
 
@@ -16,7 +16,7 @@ It lets you get :
 
 List all dependencies and their version needed by the project as :
 
-Note : only tested on Windows 11
+Note: only tested on Windows 11
 
 ||                                                                         ||
 |:--|:------------------------------------------------------------------------|:--|
@@ -35,7 +35,7 @@ How do you set the sensitive data?
 
 ### On dev environment
 
-How to get dependencies and build?
+How do you get dependencies and build?
 How to run the tests?
 
 ### On integration environment
@@ -68,4 +68,4 @@ How to deploy the application outside the dev environment.
 
 ## Contact
 
-* How to get in contact with you? Discord, Trello, Issue?
+* How do I get in contact with you? Discord, Trello, Issue?
